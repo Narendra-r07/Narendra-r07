@@ -29,7 +29,7 @@
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html)
-![C#](https://img.shields.io/badge/CS#-000?style=for-the-badge&logo=c#)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 ### AI & Data Science
 
@@ -46,6 +46,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
