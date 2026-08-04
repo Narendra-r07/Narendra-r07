@@ -42,7 +42,11 @@ Email
 
 <!--
 **Narendra-r07/Narendra-r07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Narendra017-x&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra017-x&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Narendra017-x&theme=tokyonight)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
