@@ -6,7 +6,11 @@
 
 # Hi, I'm Narendra Rajput 👋
 
-### Artificial Intelligence & Data Science Student | Machine Learning | Python | Data Analytics | Web Development
+### AI & Data Science Student | Aspiring Machine Learning Engineer
+
+*Passionate about building AI-powered applications, machine learning models, and modern web solutions.*
+
+📍 Mumbai, Maharashtra, India
 
 </div>
 
@@ -20,13 +24,74 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-rajput-r17)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narendra017-x)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narendra-r07)
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Narendrarajput7777@gmail.com)
 
-</div>
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 AI Portfolio Website
+
+**Personal Portfolio Website**
+
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-100%25-success?style=flat-square)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
+
+Modern responsive portfolio showcasing my projects, skills, certifications, and achievements.
+
+`React` `Vite` `JavaScript` `CSS`
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_LINK)
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Narendra017-x)
+
+</td>
+
+<td width="50%">
+
+### 🏠 House Price Prediction
+
+**Machine Learning Project**
+
+![Python](https://img.shields.io/badge/Python-ML-success?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-High-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+
+Machine learning model for predicting house prices using data preprocessing, feature engineering, and regression algorithms.
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 Student Result Management System
+
+**Database Project**
+
+![SQL](https://img.shields.io/badge/SQL-Database-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-App-blue?style=flat-square)
+
+A student result management system for storing, managing, and viewing academic records efficiently.
+
+`Python` `SQL` `Database`
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+
+</td>
+
+<td width="50%"
 
 <div align="center">
 
@@ -35,9 +100,8 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+
 
 ---
 
@@ -82,7 +146,7 @@
 
 🚀 Currently building real-world AI projects, improving my GitHub portfolio, and learning modern technologies.
 
-🌱 Interested in AI, Data Analytics, Deep Learning, Generative AI, and Cloud Computing.
+🌱 Interested in AI, Data Analytics, Deep Learning, Generative AI, and LINUX.
 
 🎯 Goal: Become an AI Engineer and build impactful AI products used by millions.
 
