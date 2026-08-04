@@ -21,6 +21,36 @@
 
 ---
 
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+### AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge&logo=tensorflow)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000?style=for-the-badge&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
+![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
+
+---
+
+
 # 🚀 Featured Projects
 
 ## 🌐 AI Portfolio Website
@@ -65,46 +95,6 @@ Student database management application.
 
 [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
 
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-
-### AI & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge&logo=tensorflow)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000?style=for-the-badge&logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
-![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter)
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narendra-r07&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra-r07&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
