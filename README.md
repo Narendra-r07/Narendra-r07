@@ -2,7 +2,7 @@
 
 # Narendra Rajput
 
-### AI & Data Science Student | Aspiring Machine Learning Engineer
+### AI & Data Science Student | AI Engineer
 
 *Passionate about building AI-powered applications, machine learning models, and modern web solutions.*
 
