@@ -50,50 +50,46 @@
 ---
 
 
-# 🚀 Featured Projects
+<td width="50%">
 
-## 🌐 AI Portfolio Website
+### 🏠 House Price Prediction
 
-> Personal portfolio website showcasing my projects, skills and achievements.
-
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-100%25-success?style=flat-square)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=flat-square)
-
-**Tech Stack**
-
-`React` `Vite` `JavaScript` `CSS`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_LINK)
-
-[![Source Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PORTFOLIO_REPOSITORY)
-
----
-
-## 🏠 House Price Prediction
-
-Machine Learning model for predicting house prices.
+**Machine Learning Project**
 
 ![Python](https://img.shields.io/badge/Python-ML-success?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Regression-blue?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-High-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+
+Machine learning model for predicting house prices using data preprocessing, feature engineering, and regression algorithms.
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
 
----
+</td>
 
-## 🎓 Student Result Management System
+</tr>
 
-Student database management application.
+<tr>
 
-![Python](https://img.shields.io/badge/Python-App-blue?style=flat-square)
+<td width="50%">
+
+### 🎓 Student Result Management System
+
+**Database Project**
+
 ![SQL](https://img.shields.io/badge/SQL-Database-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-App-blue?style=flat-square)
 
-`Python` `SQL`
+A student result management system for storing, managing, and viewing academic records efficiently.
 
-[![GitHub](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+`Python` `SQL` `Database`
 
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github)](YOUR_PROJECT_LINK)
+
+</td>
+
+<td width="50%">
 
 ---
 
