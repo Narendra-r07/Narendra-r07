@@ -28,8 +28,8 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html)
+![C#](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=c#)
 
 ### AI & Data Science
 
@@ -42,7 +42,6 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
@@ -98,6 +97,15 @@ Student database management application.
 
 ---
 
+### 📊 Quick Overview
+
+| Metric | Value |
+|---|---|
+| 🎓 Degree | **B.Tech AI & DS** |
+| 💻 Projects | **3+** |
+| 🚀 Portfolio | **Live** |
+
+---
 # ✨ About Me
 
 🎓 Final-Year B.Tech Student in Artificial Intelligence & Data Science.
