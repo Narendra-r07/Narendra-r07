@@ -28,8 +28,8 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html)
-![C#](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=c#)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html)
+![C#](https://img.shields.io/badge/CS#-000?style=for-the-badge&logo=c#)
 
 ### AI & Data Science
 
