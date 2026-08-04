@@ -18,7 +18,7 @@
 ---
 
 🛠 Tech Stack
-Languages   Python SQL
+Languages   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ML / AI   Scikit-learn XGBoost Regression Classification Clustering
 
