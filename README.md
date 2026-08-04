@@ -17,29 +17,20 @@
 
 ---
 
-## Skills
+🛠 Tech Stack
+Languages   Python SQL
 
-Python
+ML / AI   Scikit-learn XGBoost Regression Classification Clustering
 
-SQL
+Deep Learning   PyTorch CNN Transfer Learning
 
-Pandas
+Data   Pandas NumPy EDA Feature Engineering Data Cleaning
 
-NumPy
+Visualisation   Power BI Matplotlib Seaborn Streamlit
 
-Power BI
+Deployment   Flask REST API Render Hugging Face Spaces Streamlit Cloud
 
-Excel
-
-Machine Learning
-
-Git
-
-GitHub
-
-Linux
-
----
+Tools   Jupyter Notebook Git & GitHub VS Code
 
 ## Connect with me
 
